@@ -1,0 +1,13 @@
+package com.santosh.springflywaymigration;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringFlywayMigrationApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringFlywayMigrationApplication.class, args);
+	}
+
+}
